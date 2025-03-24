@@ -1,0 +1,14 @@
+D:\source\MyUdemyProject\ApiConsume\HotelProject.EntityLayer\bin\Debug\net6.0\HotelProject.EntityLayer.deps.json
+D:\source\MyUdemyProject\ApiConsume\HotelProject.EntityLayer\bin\Debug\net6.0\HotelProject.EntityLayer.runtimeconfig.json
+D:\source\MyUdemyProject\ApiConsume\HotelProject.EntityLayer\bin\Debug\net6.0\HotelProject.EntityLayer.dll
+D:\source\MyUdemyProject\ApiConsume\HotelProject.EntityLayer\bin\Debug\net6.0\HotelProject.EntityLayer.pdb
+D:\source\MyUdemyProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.csproj.AssemblyReference.cache
+D:\source\MyUdemyProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\MyUdemyProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.AssemblyInfoInputs.cache
+D:\source\MyUdemyProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.AssemblyInfo.cs
+D:\source\MyUdemyProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.csproj.CoreCompileInputs.cache
+D:\source\MyUdemyProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.dll
+D:\source\MyUdemyProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\refint\HotelProject.EntityLayer.dll
+D:\source\MyUdemyProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.pdb
+D:\source\MyUdemyProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.genruntimeconfig.cache
+D:\source\MyUdemyProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net6.0\ref\HotelProject.EntityLayer.dll

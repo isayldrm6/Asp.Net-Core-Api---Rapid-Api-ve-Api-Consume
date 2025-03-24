@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "WebApiJwt.Controllers.DefaultController",
+    "Method": "AdminTokenOlustur",
+    "RelativePath": "api/Default/AdminTokenOlustur",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiJwt.Controllers.DefaultController",
+    "Method": "Test2",
+    "RelativePath": "api/Default/Test2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiJwt.Controllers.DefaultController",
+    "Method": "Test3",
+    "RelativePath": "api/Default/Test3",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiJwt.Controllers.DefaultController",
+    "Method": "TokenOlustur",
+    "RelativePath": "api/Default/TokenOlustur",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

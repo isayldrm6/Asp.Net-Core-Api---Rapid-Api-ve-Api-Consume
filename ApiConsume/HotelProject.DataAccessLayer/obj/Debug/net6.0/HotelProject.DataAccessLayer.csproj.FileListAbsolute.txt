@@ -1,0 +1,17 @@
+D:\source\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.deps.json
+D:\source\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.runtimeconfig.json
+D:\source\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.dll
+D:\source\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.DataAccessLayer.pdb
+D:\source\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.EntityLayer.dll
+D:\source\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net6.0\HotelProject.EntityLayer.pdb
+D:\source\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.csproj.AssemblyReference.cache
+D:\source\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.AssemblyInfoInputs.cache
+D:\source\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.AssemblyInfo.cs
+D:\source\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\source\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelPro.61274476.Up2Date
+D:\source\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.dll
+D:\source\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\refint\HotelProject.DataAccessLayer.dll
+D:\source\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.pdb
+D:\source\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\HotelProject.DataAccessLayer.genruntimeconfig.cache
+D:\source\MyUdemyProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net6.0\ref\HotelProject.DataAccessLayer.dll
